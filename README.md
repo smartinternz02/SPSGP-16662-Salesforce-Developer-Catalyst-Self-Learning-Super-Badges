@@ -7,6 +7,5 @@
 
 # [(https://trailblazer.me/id/chin2uuu)]
 
-<img src="Process Automation Spacialist SuperBadge.jpg" >
 
 
