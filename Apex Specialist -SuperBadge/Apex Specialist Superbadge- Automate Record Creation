@@ -5,6 +5,8 @@ trigger MaintenanceRequest on Case (before update, after update) {
         MaintenanceRequestHelper.updateWorkOrders(Trigger.New, Trigger.OldMap);
     }
 }
+=====================================================================================================================
+
 
 
 //MaintenanceRequestHelper.apxc
